@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/K1k0Ch1pPy.png" alt="TryHackMe">
 
 <!---
 KikoChippy/KikoChippy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
